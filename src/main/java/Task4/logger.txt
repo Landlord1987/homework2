@@ -1,0 +1,10 @@
+апр. 23, 2023 11:41:34 PM Task4.Task4 main
+INFO: Начало логирования
+апр. 23, 2023 11:41:38 PM Task4.Task4 main
+INFO: Первое число 1
+апр. 23, 2023 11:41:39 PM Task4.Task4 main
+INFO: Второе число 2
+апр. 23, 2023 11:41:40 PM Task4.Task4 main
+INFO: Операция +
+апр. 23, 2023 11:41:40 PM Task4.Task4 main
+INFO: Результат: 3
